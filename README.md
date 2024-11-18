@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **talash.baraki@laplateforme.io**
 
-- ⚡ Fun fact **I am happy and like travel**
+- ⚡ Fun fact **I am happy and love IT section**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
