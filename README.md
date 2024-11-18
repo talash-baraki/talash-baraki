@@ -1,19 +1,16 @@
 #![development web](https://github.com/user-attachments/assets/3cb4e20b-6489-44cc-8934-cdd8e903f48e)
-# Bonjour à tous 👋
+# Hello Everyone👋
+My name is Talash Baraki, I am student of Information Technology in the Plateforme in Marsielle.
+ - I am learning IT now in this plateforme
+ - I study in general (Web devoplement, systeme, cyber security, tools and soft skills)
+ - I am searching for for internship or alternance in one of the international or national organisation in any city of france.
 
-Je m'apple Talash Baraki et je suis etuidant de IT Bachelor de la Plateforme à Marsielle.
-- Je travaille actuellement sur projet informatique (Web development,système,cyber securité,outils,soft skills)
-- Je suis en train d'apprendre informatique
-- Je cherche de l'aide pour trouver alternance en informatique
-
-### 📚 Compétences techniques
-
-- **Langages** : HTML et CSS, Python, JavaScript etc..
-- **Frameworks** : React, Django, Flask, etc.
-- **Bases de données** : MySQL, PostgreSQL, MongoDB
-- **Outils** : Docker, Git, CI/CD
-- **Méthodologies** : Agile, Scrum
-
+## 📚 Technical skills
+- Languages**: HTML5 and CSS, Flex, Media Queries
+- Programmes**: MS Office, Visual Studio
+- Cloud-based**: Github
+- System**: VMware Workstation Pro, Windows11, Debain 
+- 
 ### 🏆 Certifications et Badges
 ![Badge](https://img.shields.io/badge/Certification-Awesome_Certificate-blue) 
 ![Badge](https://img.shields.io/badge/Contributor-Open_Source-red)
