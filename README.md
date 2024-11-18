@@ -1,7 +1,7 @@
 ## Bonjour à tous 👋
 
 Je m'apple Talash Baraki et je suis etuidant de IT Bachelor de la Plateforme à Marsielle.
-- Je travaille actuellement sur projet informatique (Web development,Système,Cyber securité,outils,soft skills)
+- Je travaille actuellement sur projet informatique (Web development,système,cyber securité,outils,soft skills)
 - Je suis en train d'apprendre informatique
 - Je cherche de l'aide pour trouver alternance en informatique.
 <!--
