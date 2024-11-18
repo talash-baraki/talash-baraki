@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talash-baraki" alt="talash-baraki" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **IT project**
 
 - 🌱 I’m currently learning **Information Technology**
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **talash.baraki@laplateforme.io**
 
-- ⚡ Fun fact **I am happy that I am a student of plateforme**
+- ⚡ Fun fact **I am happy and like travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
