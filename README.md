@@ -7,7 +7,7 @@ Je m'apple Talash Baraki et je suis etuidant de IT Bachelor de la Plateforme à 
 
 ### 📚 Compétences techniques
 
-- **Langages** : Python, JavaScript, C++, etc.
+- **Langages** : HTML et CSS, Python, JavaScript etc..
 - **Frameworks** : React, Django, Flask, etc.
 - **Bases de données** : MySQL, PostgreSQL, MongoDB
 - **Outils** : Docker, Git, CI/CD
@@ -19,7 +19,7 @@ Je m'apple Talash Baraki et je suis etuidant de IT Bachelor de la Plateforme à 
 - [Nom de la certification 1](lien_vers_certificat) - Description
 - [Nom de la certification 2](lien_vers_certificat) - Description
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talash-baraki&show_icons=true&theme=radical)
 <!--
 **talash-baraki/talash-baraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
