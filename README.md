@@ -4,12 +4,14 @@ My name is Talash Baraki, I am student of Information Technology in the Platefor
  - I am learning IT now in this plateforme
  - I study in general (Web devoplement, systeme, cyber security, tools and soft skills)
  - I am searching for for internship or alternance in one of the international or national organisation in any city of france.
+ - Always learning web development
+ - Hobbies include, running and fitting
 
 ## 📚 Technical skills
-- Languages**: HTML5 and CSS, Flex, Media Queries
-- Programmes**: MS Office, Visual Studio
-- Cloud-based**: Github
-- System**: VMware Workstation Pro, Windows11, Debain 
+- Languages: HTML5 and CSS, Flex, Media Queries
+- Programmes: MS Office, Visual Studio
+- Cloud-based: Github
+- System: VMware Workstation Pro, Windows11, Debain
 - 
 ### 🏆 Certifications et Badges
 ![Badge](https://img.shields.io/badge/Certification-Awesome_Certificate-blue) 
