@@ -12,13 +12,6 @@ My name is Talash Baraki, I am student of Information Technology in the Platefor
 - Programmes: MS Office, Visual Studio
 - Cloud-based: Github
 - System: VMware Workstation Pro, Windows11, Debain
-- 
-### 🏆 Certifications et Badges
-![Badge](https://img.shields.io/badge/Certification-Awesome_Certificate-blue) 
-![Badge](https://img.shields.io/badge/Contributor-Open_Source-red)
-- [Nom de la certification 1](lien_vers_certificat) - Description
-- [Nom de la certification 2](lien_vers_certificat) - Description
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talash-baraki&show_icons=true&theme=radical)
 <!--
 **talash-baraki/talash-baraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
