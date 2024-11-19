@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1100" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
 <h1 align="center">Hi 👋, I'm Talash Baraki</h1>
-<h3 align="center">Web Developer from France</h3>
+<h3 align="center">Web Developer</h3>
 <img align="center" alt="coding" width="1100" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talash-baraki&label=Profile%20views&color=0e75b6&style=flat" alt="talash-baraki" /> </p>
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **IT project**
+- 🔭 I’m currently working on **IT Projects**
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 👯 I’m looking to collaborate on **IT sections**
+- 👯 I’m looking to collaborate on **IT Sections**
 
 - 🤝 I’m looking for help with **Information Technology**
 
 - 📫 How to reach me **talash.baraki@laplateforme.io**
 
-- ⚡ Fun fact **I am happy and love IT section**
+- ⚡ Fun fact **I am happy and I love IT Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
